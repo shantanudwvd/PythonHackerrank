@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+my_tuple = divmod(a, b)
+print(my_tuple[0])
+print(my_tuple[1])
+print(my_tuple)
