@@ -13,7 +13,7 @@ def print_rangoli(size):
                 idx = 0
                 idx += 1
             elif l % 2 != 0 and l <= size:
-                print(my_list[idx], end="")
+                print(my_list[idx], end=" ")
                 idx -= 1
             else:
                 print("-",  end="")
