@@ -1,6 +1,6 @@
 def solve():
     A = [5, 16, 2, 13, 5, 3, 4, 3, 14, 5]
-    max = 0
+    maxi = 0
     count = 0
     idx = 0
     for i in A:
@@ -12,10 +12,10 @@ def solve():
             elif (i % 2 != 0 and j % 2 == 0) and i < j:
                 i = j
                 count += 1
-        if count > max:
-            max = count
+        if count > maxi:
+            maxi = count
         idx += 1
-    return max
+    return maxi
 
 print(solve())
 # N = int(input())

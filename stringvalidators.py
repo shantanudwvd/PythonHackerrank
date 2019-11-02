@@ -1,23 +1,23 @@
-string=input()
+string = input()
 i = 0
 count = 0
 while i < len(string):
-    if string[i].isalnum() == True:
+    if string[i].isalnum():
         count += 1
         print("True")
         break
     i += 1
-if (count == 0):
+if count == 0:
     print("False")
 i = 0
 count = 0
 while i < len(string):
-    if string[i].isalpha() == True:
+    if string[i].isalpha():
         count += 1
         print("True")
         break
     i += 1
-if (count == 0):
+if count == 0:
     print("False")
 i = 0
 count = 0
@@ -27,25 +27,25 @@ while i < len(string):
         print("True")
         break
     i += 1
-if (count == 0):
+if count == 0:
     print("False")
-i=0
-count=0
-while i<len(string):
-    if string[i].islower()==True:
-        count+=1
+i = 0
+count = 0
+while i < len(string):
+    if string[i].islower():
+        count += 1
         print("True")
         break
-    i+=1
-if(count==0):
+    i += 1
+if count == 0:
     print("False")
-i=0
-count=0
-while i<len(string):
-    if string[i].isupper()==True:
-        count+=1
+i = 0
+count = 0
+while i < len(string):
+    if string[i].isupper():
+        count += 1
         print("True")
         break
-    i+=1
-if(count==0):
+    i += 1
+if count == 0:
     print("False")

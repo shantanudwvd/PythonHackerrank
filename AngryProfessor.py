@@ -1,14 +1,14 @@
 def angryProfessor(k, a):
-   count = 0
-   i = 0
-   while i < len(a):
-       if a[i] <= 0:
-           count += 1
-       i += 1
-   if count >= k:
-       return 'NO'
-   else:
-       return 'YES'
+    count = 0
+    i = 0
+    while i < len(a):
+        if a[i] <= 0:
+            count += 1
+        i += 1
+    if count >= k:
+        return 'NO'
+    else:
+        return 'YES'
 
 
 t = int(input())

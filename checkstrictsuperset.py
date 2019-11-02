@@ -13,7 +13,7 @@ while i < queries:
             count += 1
         j += 1
     if count == len(subset) and len(my_setA) > len(subset):
-        if ans == False:
+        if not ans:
             subset.clear()
     else:
         ans = False

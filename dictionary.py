@@ -1,11 +1,5 @@
-dict1 = {}
-dict1['name']='solitaire'
-dict1['age']=230
-dict1['fav']='food'
-dict2={}
-dict2["state"]="punjab"
-dict2["district"]="mohali"
-dict2["age"]=229
+dict1 = {'name': 'solitaire', 'age': 230, 'fav': 'food'}
+dict2 = {"state": "punjab", "district": "mohali", "age": 229}
 dict1.update(dict1)
 # print(dict1)
 # if("age" in dict1.keys()):
