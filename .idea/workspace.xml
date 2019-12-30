@@ -2495,7 +2495,7 @@
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Permutations_divisible_by_8">
+  <component name="RunManager" selected="Python.Poisnous_Plants_Optimised">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -3156,7 +3156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Permutations_divisible_by_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Poisnous_Plants_Optimised" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -3169,7 +3169,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Permutations_divisible_by_8.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Shantanu\PycharmProjects\PythonHackerrank\Poisnous_Plants_Optimised.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -4152,11 +4152,11 @@
       <item itemvalue="Python.longest-substring-without-repeating-characters" />
       <item itemvalue="Python.Chapo" />
       <item itemvalue="Python.best-time-to-buy-and-sell-stocks-ii" />
-      <item itemvalue="Python.Permutations_divisible_by_8" />
+      <item itemvalue="Python.Poisnous_Plants_Optimised" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Permutations_divisible_by_8" />
+        <item itemvalue="Python.Poisnous_Plants_Optimised" />
       </list>
     </recent_temporary>
   </component>
@@ -4306,7 +4306,7 @@
       <workItem from="1576157415335" duration="1510000" />
       <workItem from="1576225932844" duration="218000" />
       <workItem from="1577394552103" duration="852000" />
-      <workItem from="1577706315079" duration="434000" />
+      <workItem from="1577706315079" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -4355,22 +4355,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576226133238" />
-    <state width="1323" height="224" key="GridCell.Tab.0.bottom" timestamp="1577452785289">
+    <state width="1323" height="224" key="GridCell.Tab.0.bottom" timestamp="1577706998301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="224" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577452785289" />
-    <state width="1323" height="224" key="GridCell.Tab.0.center" timestamp="1577452785289">
+    <state width="1323" height="224" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577706998301" />
+    <state width="1323" height="224" key="GridCell.Tab.0.center" timestamp="1577706998301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="224" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577452785289" />
-    <state width="1323" height="224" key="GridCell.Tab.0.left" timestamp="1577452785289">
+    <state width="1323" height="224" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577706998301" />
+    <state width="1323" height="224" key="GridCell.Tab.0.left" timestamp="1577706998300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="224" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577452785289" />
-    <state width="1323" height="224" key="GridCell.Tab.0.right" timestamp="1577452785289">
+    <state width="1323" height="224" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577706998300" />
+    <state width="1323" height="224" key="GridCell.Tab.0.right" timestamp="1577706998301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="224" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577452785289" />
+    <state width="1323" height="224" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577706998301" />
     <state width="1323" height="244" key="GridCell.Tab.1.bottom" timestamp="1576157294992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
