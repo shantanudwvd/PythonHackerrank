@@ -13,7 +13,7 @@
 # names = ["nitin","Solitaire","Infosys"]
 # print(func(names,reverse_str = True))
 def func(l, **kwargs):
-    if kwargs.get('reverse_str') == True:
+    if kwargs.get('reverse_str'):
         nums = [name[::-1].title() for name in l]
     else:
         nums = [name[::-1] for name in l]
@@ -21,4 +21,4 @@ def func(l, **kwargs):
 
 names = ("nitin","Solitaire","Infosys")
 # names=list(names)
-print(func(names,reverse_str=True))
+print(func(names, reverse_str=True))
