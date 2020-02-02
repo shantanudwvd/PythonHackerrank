@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BairesDev.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FidelityTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordCompression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordcompressionalternate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poisnous_Plants_Optimised.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poisnous_Plants_Optimised.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsurfacearea.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsurfacearea.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2083,7 +2079,7 @@
       <workItem from="1580586936224" duration="197000" />
       <workItem from="1580587189307" duration="67000" />
       <workItem from="1580626047651" duration="1455000" />
-      <workItem from="1580627830808" duration="566000" />
+      <workItem from="1580627830808" duration="3416000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2137,6 +2133,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1580626291877" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580629030738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580629030738" />
     <state x="402" y="0" key="#wordcompressionalternate" timestamp="1578740246061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -2206,11 +2206,6 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/guessinggamerandom.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/checkstrictsuperset.py</url>
           <line>6</line>
           <option name="timeStamp" value="20" />
@@ -2234,11 +2229,6 @@
           <url>file://$PROJECT_DIR$/AngryProfessor.py</url>
           <line>13</line>
           <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/zipfunction.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CollectionCounter.py</url>
@@ -2270,11 +2260,6 @@
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ValidatingEmailAddressesWithaFilter.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ReduceFunction.py</url>
           <line>9</line>
           <option name="timeStamp" value="93" />
@@ -2300,11 +2285,6 @@
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/reversetitle.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/simple_prime.py</url>
           <line>18</line>
           <option name="timeStamp" value="109" />
@@ -2323,10 +2303,6 @@
           <url>file://$PROJECT_DIR$/selling_products.py</url>
           <line>3</line>
           <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FidelityTest.py</url>
-          <option name="timeStamp" value="120" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
