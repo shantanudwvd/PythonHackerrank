@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Absolue_Element_Sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Equalize_the_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Equilibrium_Point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonHackerrank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonHackerrank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Dsurfacearea.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsurfacearea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deque-STL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deque-STL.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +168,7 @@
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.BairesDev">
+  <component name="RunManager" selected="Python.Equilibrium_Point">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -443,6 +447,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deque-STL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Equalize_the_array" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Equalize_the_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Equilibrium_Point" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Equilibrium_Point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1375,6 +1423,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hiphiparray" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hiphiparray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="introductiontosets" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1914,6 +1984,9 @@
       <item itemvalue="Python.WordCompression" />
       <item itemvalue="Python.wordcompressionalternate" />
       <item itemvalue="Python.BairesDev" />
+      <item itemvalue="Python.hiphiparray" />
+      <item itemvalue="Python.Equalize_the_array" />
+      <item itemvalue="Python.Equilibrium_Point" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -2079,7 +2152,18 @@
       <workItem from="1580586936224" duration="197000" />
       <workItem from="1580587189307" duration="67000" />
       <workItem from="1580626047651" duration="1455000" />
-      <workItem from="1580627830808" duration="3416000" />
+      <workItem from="1580627830808" duration="4794000" />
+      <workItem from="1580722838862" duration="1104000" />
+      <workItem from="1580733427130" duration="5492000" />
+      <workItem from="1580803334480" duration="3939000" />
+      <workItem from="1580811349429" duration="3297000" />
+      <workItem from="1580835484572" duration="2808000" />
+      <workItem from="1580902697220" duration="128000" />
+      <workItem from="1580987624279" duration="4593000" />
+      <workItem from="1580994672992" duration="5597000" />
+      <workItem from="1581058496705" duration="1964000" />
+      <workItem from="1581063182428" duration="4234000" />
+      <workItem from="1581164616708" duration="2186000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2113,6 +2197,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Added all the files for algorithm questions from various coding platforms." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#Equalize_the_array" timestamp="1580810586690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#Equalize_the_array/0.0.1366.728@0.0.1366.728" timestamp="1580810586690" />
+    <state x="402" y="0" key="#Equilibrium_Point" timestamp="1580988040823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#Equilibrium_Point/0.0.1366.728@0.0.1366.728" timestamp="1580988040823" />
     <state x="402" y="0" key="#FidelityTest" timestamp="1578401312889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -2125,18 +2217,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#WordCompression/0.0.1366.728@0.0.1366.728" timestamp="1578480085546" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576157993049">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580810908443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576157993049" />
-    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580626291877">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580810908443" />
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581063022383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1580626291877" />
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581063022383" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580629030738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580629030738" />
+    <state x="402" y="0" key="#hiphiparray" timestamp="1580752097957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#hiphiparray/0.0.1366.728@0.0.1366.728" timestamp="1580752097957" />
     <state x="402" y="0" key="#wordcompressionalternate" timestamp="1578740246061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -2145,38 +2241,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576226133238" />
-    <state width="1323" height="235" key="GridCell.Tab.0.bottom" timestamp="1580471333108">
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1581021111930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580471333108" />
-    <state width="1323" height="235" key="GridCell.Tab.0.center" timestamp="1580471333108">
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581021111930" />
+    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1581021111930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="235" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580471333108" />
-    <state width="1323" height="235" key="GridCell.Tab.0.left" timestamp="1580471333108">
+    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581021111930" />
+    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1581021111930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="235" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580471333108" />
-    <state width="1323" height="235" key="GridCell.Tab.0.right" timestamp="1580471333108">
+    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581021111930" />
+    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1581021111930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="235" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580471333108" />
-    <state width="1323" height="244" key="GridCell.Tab.1.bottom" timestamp="1580471333082">
+    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581021111930" />
+    <state width="1323" height="244" key="GridCell.Tab.1.bottom" timestamp="1581021111138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="244" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580471333082" />
-    <state width="1323" height="244" key="GridCell.Tab.1.center" timestamp="1580471333082">
+    <state width="1323" height="244" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581021111138" />
+    <state width="1323" height="244" key="GridCell.Tab.1.center" timestamp="1581021111137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="244" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580471333082" />
-    <state width="1323" height="244" key="GridCell.Tab.1.left" timestamp="1580471333082">
+    <state width="1323" height="244" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581021111137" />
+    <state width="1323" height="244" key="GridCell.Tab.1.left" timestamp="1581021111137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="244" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580471333082" />
-    <state width="1323" height="244" key="GridCell.Tab.1.right" timestamp="1580471333082">
+    <state width="1323" height="244" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581021111137" />
+    <state width="1323" height="244" key="GridCell.Tab.1.right" timestamp="1581021111137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="244" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580471333082" />
+    <state width="1323" height="244" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581021111137" />
     <state x="184" y="5" key="SettingsEditor" timestamp="1580626647887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -2304,6 +2400,16 @@
           <line>3</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Equalize_the_array.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Equilibrium_Point.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -2316,6 +2422,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonHackerrank$reversetitle.coverage" NAME="reversetitle Coverage Results" MODIFIED="1573753316174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$hiphiparray.coverage" NAME="hiphiparray Coverage Results" MODIFIED="1580752132224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$GoogleFooBarChallenge1.coverage" NAME="GoogleFooBarChallenge1 Coverage Results" MODIFIED="1561897976042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$hardworkingAI.coverage" NAME="hardworkingAI Coverage Results" MODIFIED="1573997336610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$Permutations_divisible_by_8.coverage" NAME="Permutations_divisible_by_8 Coverage Results" MODIFIED="1577706978312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -2329,7 +2436,9 @@
     <SUITE FILE_PATH="coverage/PythonHackerrank$FidelityTest.coverage" NAME="FidelityTest Coverage Results" MODIFIED="1578406140462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$wordcompressionalternate.coverage" NAME="wordcompressionalternate Coverage Results" MODIFIED="1578740279755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$Kcount.coverage" NAME="Kcount Coverage Results" MODIFIED="1560172655083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Equilibrium_Point.coverage" NAME="Equilibrium_Point Coverage Results" MODIFIED="1580995469728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$3Dsurfacearea.coverage" NAME="3Dsurfacearea Coverage Results" MODIFIED="1560175333766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$selling_products.coverage" NAME="selling_products Coverage Results" MODIFIED="1576157627657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Equalize_the_array.coverage" NAME="Equalize_the_array Coverage Results" MODIFIED="1580813237983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
