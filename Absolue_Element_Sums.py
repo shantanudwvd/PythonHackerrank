@@ -1,0 +1,5 @@
+size = int(input())
+array = list(map(int, input().split()))
+add = sum(array)
+qsize = int(input())
+queries = list(map(int, input().split()))

@@ -17,5 +17,4 @@ for t_itr in range(t):
     n = int(nk[0])
     k = int(nk[1])
     a = list(map(int, input().rstrip().split()))
-    result = angryProfessor(k, a)
-print(result)
+    print(angryProfessor(k, a))
