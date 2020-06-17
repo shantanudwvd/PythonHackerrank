@@ -1,5 +1,3 @@
-import math as m
-
 queries = int(input())
 for i in range(queries):
     size, x = map(int, input().split())
@@ -9,5 +7,15 @@ for i in range(queries):
         median = (array[int(size/2) - 1] + array[int(size/2)]) / 2
     else:
         median = array[int(size/2)]
-    print(abs(int(size/2) - array.index(x)))
+    if size % 2 == 0:
+        if x in array:
+            print(abs(size - array.index(x) -1))
+        else:
+            print(1)
+    # else:
+    #     if x in array:
+    #
+    #     else:
+
+# thing_index = thing_list.index(elem) if elem in thing_list else -1
 
