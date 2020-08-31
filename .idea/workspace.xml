@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="" />
-=======
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DivisorsofN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Finding_Vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minimum elements to make median X.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Power_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AsorBs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListComprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists.py" beforeDir="false" />
     </list>
->>>>>>> 8bf8728000d50f5b8099c3d573c478113318db97
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,9 +136,6 @@
     <option name="directoryName" value="OBLfSXcp" />
   </component>
   <component name="ProjectId" id="1T4dl0gG9jY9hj4iGjBSkfu5kQh" />
-<<<<<<< HEAD
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -158,13 +145,12 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
->>>>>>> 8bf8728000d50f5b8099c3d573c478113318db97
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newton-school" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -177,19 +163,7 @@
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Minimum elements to make median X">
+  <component name="RunManager" selected="Python.AsorBs">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,6 +244,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AsorBs" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AsorBs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2123,6 +2119,7 @@
       <item itemvalue="Python.DivisorsofN" />
       <item itemvalue="Python.Power_Set" />
       <item itemvalue="Python.Minimum elements to make median X" />
+      <item itemvalue="Python.AsorBs" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -2227,9 +2224,6 @@
       <workItem from="1561913785267" duration="579000" />
       <workItem from="1561917758331" duration="3997000" />
       <workItem from="1572723465117" duration="743000" />
-<<<<<<< HEAD
-      <workItem from="1585164058403" duration="27000" />
-=======
       <workItem from="1572724510644" duration="1254000" />
       <workItem from="1572968275682" duration="432000" />
       <workItem from="1572971526729" duration="717000" />
@@ -2311,7 +2305,8 @@
       <workItem from="1584023746258" duration="169000" />
       <workItem from="1584640303381" duration="1374000" />
       <workItem from="1585223516170" duration="7333000" />
->>>>>>> 8bf8728000d50f5b8099c3d573c478113318db97
+      <workItem from="1598846131632" duration="106000" />
+      <workItem from="1598850375993" duration="455000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2345,94 +2340,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Added all the files for algorithm questions from various coding platforms." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="0" key="#Equal_Stacks" timestamp="1581333522509">
+    <state x="402" y="0" key="#AsorBs" timestamp="1598850492757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#Equal_Stacks/0.0.1366.728@0.0.1366.728" timestamp="1581333522509" />
-    <state x="402" y="0" key="#Equalize_the_array" timestamp="1580810586690">
+    <state x="402" y="0" key="#AsorBs/0.0.1366.728@0.0.1366.728" timestamp="1598850492757" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598846242956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#Equalize_the_array/0.0.1366.728@0.0.1366.728" timestamp="1580810586690" />
-    <state x="402" y="0" key="#Equilibrium_Point" timestamp="1580988040823">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598846242956" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598850912388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#Equilibrium_Point/0.0.1366.728@0.0.1366.728" timestamp="1580988040823" />
-    <state x="402" y="0" key="#FidelityTest" timestamp="1578401312889">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598850912388" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598850912388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#FidelityTest/0.0.1366.728@0.0.1366.728" timestamp="1578401312889" />
-    <state x="402" y="0" key="#Largest_Rectangle" timestamp="1581419829488">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598850912388" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598850912388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#Largest_Rectangle/0.0.1366.728@0.0.1366.728" timestamp="1581419829488" />
-    <state x="275" y="21" key="#Notifications" timestamp="1575559424749">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598850912388" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598850912388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1575559424749" />
-    <state x="402" y="0" key="#WordCompression" timestamp="1578480085546">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598850912388" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1598850830311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#WordCompression/0.0.1366.728@0.0.1366.728" timestamp="1578480085546" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580810908443">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598850830311" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1598850830303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580810908443" />
-    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581589805161">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598850830303" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1598850830303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581589805161" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580629030738">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598850830303" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1598850830303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580629030738" />
-    <state x="402" y="0" key="#hiphiparray" timestamp="1580752097957">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#hiphiparray/0.0.1366.728@0.0.1366.728" timestamp="1580752097957" />
-    <state x="402" y="0" key="#wordcompressionalternate" timestamp="1578740246061">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#wordcompressionalternate/0.0.1366.728@0.0.1366.728" timestamp="1578740246061" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576226133239">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576226133238" />
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1581591464129">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581591464129" />
-    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1581591464129">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581591464129" />
-    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1581591464128">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581591464128" />
-    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1581591464129">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581591464129" />
-    <state width="1323" height="224" key="GridCell.Tab.1.bottom" timestamp="1581425220408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="224" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581425220408" />
-    <state width="1323" height="224" key="GridCell.Tab.1.center" timestamp="1581425220408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="224" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581425220408" />
-    <state width="1323" height="224" key="GridCell.Tab.1.left" timestamp="1581425220408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="224" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581425220408" />
-    <state width="1323" height="224" key="GridCell.Tab.1.right" timestamp="1581425220408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="224" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581425220408" />
-    <state x="184" y="5" key="SettingsEditor" timestamp="1580626647887">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580626647887" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598850830303" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2581,6 +2528,11 @@
           <line>10</line>
           <option name="timeStamp" value="129" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AsorBs.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -2592,31 +2544,32 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Kcount.coverage" NAME="Kcount Coverage Results" MODIFIED="1560172655083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$best_time_to_buy_and_sell_stocks_ii.coverage" NAME="best-time-to-buy-and-sell-stocks-ii Coverage Results" MODIFIED="1574575822363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$WordCompression.coverage" NAME="WordCompression Coverage Results" MODIFIED="1578498453998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$DivisorsofN.coverage" NAME="DivisorsofN Coverage Results" MODIFIED="1582731148651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Permutations_divisible_by_8.coverage" NAME="Permutations_divisible_by_8 Coverage Results" MODIFIED="1577706978312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$Minimum_elements_to_make_median_X.coverage" NAME="Minimum elements to make median X Coverage Results" MODIFIED="1585227544081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$CollectionOrderedDict.coverage" NAME="CollectionOrderedDict Coverage Results" MODIFIED="1582135894604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$3Dsurfacearea.coverage" NAME="3Dsurfacearea Coverage Results" MODIFIED="1560175333766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Equilibrium_Point.coverage" NAME="Equilibrium_Point Coverage Results" MODIFIED="1581591311028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Largest_Rectangle.coverage" NAME="Largest_Rectangle Coverage Results" MODIFIED="1581421288356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Power_Set.coverage" NAME="Power_Set Coverage Results" MODIFIED="1582834162062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$BairesDev.coverage" NAME="BairesDev Coverage Results" MODIFIED="1580455719861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$lists.coverage" NAME="lists Coverage Results" MODIFIED="1581857148831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$GoogleFooBarChallenge1.coverage" NAME="GoogleFooBarChallenge1 Coverage Results" MODIFIED="1561897976042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Equal_Stacks.coverage" NAME="Equal_Stacks Coverage Results" MODIFIED="1581338496715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$WordCompression.coverage" NAME="WordCompression Coverage Results" MODIFIED="1578498453998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Permutations_divisible_by_8.coverage" NAME="Permutations_divisible_by_8 Coverage Results" MODIFIED="1577706978312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$hardworkingAI.coverage" NAME="hardworkingAI Coverage Results" MODIFIED="1573997336610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$DivisorsofN.coverage" NAME="DivisorsofN Coverage Results" MODIFIED="1582731148651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$CollectionOrderedDict.coverage" NAME="CollectionOrderedDict Coverage Results" MODIFIED="1582135894604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$countingthestrings.coverage" NAME="countingthestrings Coverage Results" MODIFIED="1559649491281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$FidelityTest.coverage" NAME="FidelityTest Coverage Results" MODIFIED="1578406140462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$wordcompressionalternate.coverage" NAME="wordcompressionalternate Coverage Results" MODIFIED="1578740279755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$hiphiparray.coverage" NAME="hiphiparray Coverage Results" MODIFIED="1580752132224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$longest_substring_without_repeating_characters.coverage" NAME="longest-substring-without-repeating-characters Coverage Results" MODIFIED="1573994433893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$Equalize_the_array.coverage" NAME="Equalize_the_array Coverage Results" MODIFIED="1580813237983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$selling_products.coverage" NAME="selling_products Coverage Results" MODIFIED="1576157627657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$hardworkingAI.coverage" NAME="hardworkingAI Coverage Results" MODIFIED="1573997336610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$reversetitle.coverage" NAME="reversetitle Coverage Results" MODIFIED="1573753316174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$simple_prime.coverage" NAME="simple_prime Coverage Results" MODIFIED="1573998605290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Kcount.coverage" NAME="Kcount Coverage Results" MODIFIED="1560172655083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Equilibrium_Point.coverage" NAME="Equilibrium_Point Coverage Results" MODIFIED="1581591311028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Equal_Stacks.coverage" NAME="Equal_Stacks Coverage Results" MODIFIED="1581338496715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$selling_products.coverage" NAME="selling_products Coverage Results" MODIFIED="1576157627657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Equalize_the_array.coverage" NAME="Equalize_the_array Coverage Results" MODIFIED="1580813237983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$reversetitle.coverage" NAME="reversetitle Coverage Results" MODIFIED="1573753316174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$hiphiparray.coverage" NAME="hiphiparray Coverage Results" MODIFIED="1580752132224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Largest_Rectangle.coverage" NAME="Largest_Rectangle Coverage Results" MODIFIED="1581421288356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$lists.coverage" NAME="lists Coverage Results" MODIFIED="1581857148831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$BairesDev.coverage" NAME="BairesDev Coverage Results" MODIFIED="1580455719861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$Chapo.coverage" NAME="Chapo Coverage Results" MODIFIED="1574000377983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$best_time_to_buy_and_sell_stocks_ii.coverage" NAME="best-time-to-buy-and-sell-stocks-ii Coverage Results" MODIFIED="1574575822363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$longest_substring_without_repeating_characters.coverage" NAME="longest-substring-without-repeating-characters Coverage Results" MODIFIED="1573994433893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$AsorBs.coverage" NAME="AsorBs Coverage Results" MODIFIED="1598850843770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$3Dsurfacearea.coverage" NAME="3Dsurfacearea Coverage Results" MODIFIED="1560175333766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Power_Set.coverage" NAME="Power_Set Coverage Results" MODIFIED="1582834162062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
