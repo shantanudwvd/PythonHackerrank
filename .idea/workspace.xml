@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Min_Cut_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tracxn_Hiring_Q1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -2430,7 +2426,7 @@
       <workItem from="1599149555744" duration="3791000" />
       <workItem from="1599196876554" duration="6573000" />
       <workItem from="1599283674694" duration="5299000" />
-      <workItem from="1599301550688" duration="3498000" />
+      <workItem from="1599301550688" duration="3768000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2687,16 +2683,6 @@
           <url>file://$PROJECT_DIR$/Cake_Distribution.py</url>
           <line>1</line>
           <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Min_Cut_Tree.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Min_Cut_Tree.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="135" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
