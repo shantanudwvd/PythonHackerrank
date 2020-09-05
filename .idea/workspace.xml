@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Luck_Balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Min_Cut_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tracxn_Hiring_Q1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FibonacciNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/FibonacciNumbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +152,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RedditMBTI" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -165,7 +165,7 @@
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Luck_Balance">
+  <component name="RunManager" selected="Python.Min_Cut_Tree">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -972,6 +972,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergetheTools!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Min_Cut_Tree" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Min_Cut_Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2214,6 +2236,7 @@
       <item itemvalue="Python.Simple_Binary" />
       <item itemvalue="Python.Choose_Points" />
       <item itemvalue="Python.Luck_Balance" />
+      <item itemvalue="Python.Min_Cut_Tree" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -2405,7 +2428,9 @@
       <workItem from="1598946997061" duration="4581000" />
       <workItem from="1599107777408" duration="7524000" />
       <workItem from="1599149555744" duration="3791000" />
-      <workItem from="1599196876554" duration="4717000" />
+      <workItem from="1599196876554" duration="6573000" />
+      <workItem from="1599283674694" duration="5299000" />
+      <workItem from="1599301550688" duration="3498000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2455,46 +2480,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#Luck_Balance/0.0.1366.728@0.0.1366.728" timestamp="1599149994505" />
+    <state x="402" y="0" key="#Min_Cut_Tree" timestamp="1599284830848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#Min_Cut_Tree/0.0.1366.728@0.0.1366.728" timestamp="1599284830848" />
     <state x="402" y="0" key="#Simple_Binary" timestamp="1598949063085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#Simple_Binary/0.0.1366.728@0.0.1366.728" timestamp="1598949063085" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599111706812">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599216996281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599111706812" />
-    <state width="1323" height="249" key="GridCell.Tab.0.bottom" timestamp="1599200682433">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599305049636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599200682433" />
-    <state width="1323" height="249" key="GridCell.Tab.0.center" timestamp="1599200682432">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599305049636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599200682432" />
-    <state width="1323" height="249" key="GridCell.Tab.0.left" timestamp="1599200682432">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599305049636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599200682432" />
-    <state width="1323" height="249" key="GridCell.Tab.0.right" timestamp="1599200682433">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599305049636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599200682433" />
-    <state width="1323" height="249" key="GridCell.Tab.1.bottom" timestamp="1599200682433">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
+    <state width="1323" height="249" key="GridCell.Tab.1.bottom" timestamp="1599304075527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599200682433" />
-    <state width="1323" height="249" key="GridCell.Tab.1.center" timestamp="1599200682433">
+    <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
+    <state width="1323" height="249" key="GridCell.Tab.1.center" timestamp="1599304075527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599200682433" />
-    <state width="1323" height="249" key="GridCell.Tab.1.left" timestamp="1599200682433">
+    <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
+    <state width="1323" height="249" key="GridCell.Tab.1.left" timestamp="1599304075527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599200682433" />
-    <state width="1323" height="249" key="GridCell.Tab.1.right" timestamp="1599200682433">
+    <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
+    <state width="1323" height="249" key="GridCell.Tab.1.right" timestamp="1599304075527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599200682433" />
+    <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1599111748197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -2659,6 +2688,16 @@
           <line>1</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Min_Cut_Tree.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Min_Cut_Tree.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -2677,6 +2716,7 @@
     <SUITE FILE_PATH="coverage/PythonHackerrank$Permutations_divisible_by_8.coverage" NAME="Permutations_divisible_by_8 Coverage Results" MODIFIED="1577706978312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$hardworkingAI.coverage" NAME="hardworkingAI Coverage Results" MODIFIED="1573997336610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$DivisorsofN.coverage" NAME="DivisorsofN Coverage Results" MODIFIED="1582731148651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$Min_Cut_Tree.coverage" NAME="Min_Cut_Tree Coverage Results" MODIFIED="1599304637413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$Cake_Distribution.coverage" NAME="Cake_Distribution Coverage Results" MODIFIED="1598852239879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$CollectionOrderedDict.coverage" NAME="CollectionOrderedDict Coverage Results" MODIFIED="1582135894604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$countingthestrings.coverage" NAME="countingthestrings Coverage Results" MODIFIED="1559649491281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
