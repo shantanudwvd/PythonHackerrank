@@ -15,8 +15,8 @@ m, n = map(int, input().split(" "))
 itr = m**n
 fib(k*itr)
 i = 0
-sum = 0
+mySum = 0
 while i < itr:
-    sum += fibonacci[i*k]
+    mySum += fibonacci[i*k]
     i += 1
-print(sum % 1000000009)
+print(mySum % 1000000009)
