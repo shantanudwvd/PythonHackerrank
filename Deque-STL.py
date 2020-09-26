@@ -7,11 +7,8 @@ def max_in_subarray(array, window_size, arr_size):
         print(max_ele, end=" ")
 
 
-queries = int(input("Enter queries: "))
-print("Enter the array size and windows size: ")
-length, k = map(int, input().split())
-print("Enter elements: ")
-arr = list(map(int, input().split()))
-n = len(arr)
+queries = int(input())
 for i in range(0, queries):
+    n, k = map(int, input().split(" "))
+    arr = list(map(int, input().split()))
     max_in_subarray(arr, k, n)

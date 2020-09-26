@@ -1,4 +1,4 @@
-s1, s2, s3 = map(int, input().split(" "))
+s1, s2, s3 = map(int, input().split())
 a1 = list(map(int, input().split()))
 a2 = list(map(int, input().split()))
 a3 = list(map(int, input().split()))

@@ -20,8 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StrongPassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AvoidFloodInTheCity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseAND.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlockSwampRecursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountRotations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclicallyRotateArrayByOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvalPostfix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMultipleLeftRotations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfixToPostfix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxHammingDistance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveZeroesToIndia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptimiseMaxSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptimisePairInSortedRotated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptimiseSplitAndAdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PairInSortedRotated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReversalAlgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseStackUsingRecursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SplitAndAdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TotalMovies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoCharacters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deque-STL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deque-STL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Equal_Stacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Equal_Stacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +175,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/shantanudwvd/PythonHackerrank" />
+      </set>
+    </option>
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="OBLfSXcp" />
   </component>
@@ -177,9 +212,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.StrongPassword">
+  <component name="RunManager" selected="Python.TotalMovies">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -662,6 +697,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="EvalPostfix" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EvalPostfix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ExtraLongFactorials" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -807,6 +863,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InfixToPostfix" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfixToPostfix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1408,6 +1485,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TotalMovies" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TotalMovies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tracxn_Hiring_Q1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1443,6 +1541,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TriangleQuest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TwoCharacters" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoCharacters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2045,6 +2164,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample_file" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="searchingChallenge" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2309,6 +2449,7 @@
       <item itemvalue="Python.Equal_Stacks" />
       <item itemvalue="Python.Equalize_the_array" />
       <item itemvalue="Python.Equilibrium_Point" />
+      <item itemvalue="Python.EvalPostfix" />
       <item itemvalue="Python.ExtraLongFactorials" />
       <item itemvalue="Python.FibonacciNumbers" />
       <item itemvalue="Python.FidelityTest" />
@@ -2316,6 +2457,7 @@
       <item itemvalue="Python.GoogleFooBarChallenge1" />
       <item itemvalue="Python.GraphAPI" />
       <item itemvalue="Python.Graphics" />
+      <item itemvalue="Python.InfixToPostfix" />
       <item itemvalue="Python.Input()" />
       <item itemvalue="Python.IterTools" />
       <item itemvalue="Python.Kcount" />
@@ -2343,8 +2485,10 @@
       <item itemvalue="Python.TextWrap" />
       <item itemvalue="Python.TheCaptainsRoomAlternate" />
       <item itemvalue="Python.TheMinionGame" />
+      <item itemvalue="Python.TotalMovies" />
       <item itemvalue="Python.Tracxn_Hiring_Q1" />
       <item itemvalue="Python.TriangleQuest" />
+      <item itemvalue="Python.TwoCharacters" />
       <item itemvalue="Python.ValidatingEmailAddressesWithaFilter" />
       <item itemvalue="Python.WordCompression" />
       <item itemvalue="Python.WordOrderAlternate" />
@@ -2372,6 +2516,7 @@
       <item itemvalue="Python.reverselistofstringalternate" />
       <item itemvalue="Python.reverseolist" />
       <item itemvalue="Python.reversetitle" />
+      <item itemvalue="Python.sample_file" />
       <item itemvalue="Python.searchingChallenge" />
       <item itemvalue="Python.selling_products" />
       <item itemvalue="Python.sets" />
@@ -2638,58 +2783,59 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
-    <state width="1271" height="171" key="GridCell.Tab.0.bottom" timestamp="1600690059699">
+    <state width="1271" height="243" key="GridCell.Tab.0.bottom" timestamp="1600920733158">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
     <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599821004427" />
-    <state width="1271" height="171" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600690059699" />
-    <state width="1271" height="171" key="GridCell.Tab.0.center" timestamp="1600690059699">
+    <state width="1271" height="243" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
+    <state width="1271" height="243" key="GridCell.Tab.0.center" timestamp="1600920733156">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
     <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
-    <state width="1271" height="171" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600690059699" />
-    <state width="1271" height="171" key="GridCell.Tab.0.left" timestamp="1600690059698">
+    <state width="1271" height="243" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733156" />
+    <state width="1271" height="243" key="GridCell.Tab.0.left" timestamp="1600920733154">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
     <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
-    <state width="1271" height="171" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600690059698" />
-    <state width="1271" height="171" key="GridCell.Tab.0.right" timestamp="1600690059699">
+    <state width="1271" height="243" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733154" />
+    <state width="1271" height="243" key="GridCell.Tab.0.right" timestamp="1600920733157">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
     <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
-    <state width="1271" height="171" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600690059699" />
-    <state width="1271" height="243" key="GridCell.Tab.1.bottom" timestamp="1600690059692">
+    <state width="1271" height="243" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733157" />
+    <state width="1271" height="243" key="GridCell.Tab.1.bottom" timestamp="1600920733163">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
     <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599723752070" />
-    <state width="1271" height="243" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600690059692" />
-    <state width="1271" height="243" key="GridCell.Tab.1.center" timestamp="1600690059691">
+    <state width="1271" height="243" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733163" />
+    <state width="1271" height="243" key="GridCell.Tab.1.center" timestamp="1600920733160">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
     <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1599723752068" />
-    <state width="1271" height="243" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600690059691" />
-    <state width="1271" height="243" key="GridCell.Tab.1.left" timestamp="1600690059691">
+    <state width="1271" height="243" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733160" />
+    <state width="1271" height="243" key="GridCell.Tab.1.left" timestamp="1600920733158">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
     <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1599723752066" />
-    <state width="1271" height="243" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600690059691" />
-    <state width="1271" height="243" key="GridCell.Tab.1.right" timestamp="1600690059691">
+    <state width="1271" height="243" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
+    <state width="1271" height="243" key="GridCell.Tab.1.right" timestamp="1600920733162">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
     <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1599723752069" />
-    <state width="1271" height="243" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600690059691" />
-    <state x="246" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600600449441">
-      <screen x="72" y="29" width="1294" height="739" />
+    <state width="1271" height="243" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733162" />
+    <state x="184" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600939056808">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599111748197" />
+    <state x="184" y="31" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600939056808" />
     <state x="242" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1599820548059" />
     <state x="246" y="31" width="1022" height="737" key="SettingsEditor/72.29.1294.739@72.29.1294.739" timestamp="1600600449441" />
     <state x="438" y="208" key="cloudConfig.PluginsDialog" timestamp="1599111797744">
