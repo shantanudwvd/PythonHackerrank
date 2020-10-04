@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base26root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppendAndDelete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +154,7 @@
       </set>
     </option>
   </component>
-  <component name="JupyterTrust" id="e5eb0a51-a64e-4ada-a386-5e4f148832c7" />
+  <component name="JupyterTrust" id="cd7ec936-8400-458e-b546-3d6a4485a64c" />
   <component name="MacroExpansionManager">
     <option name="directoryName" value="OBLfSXcp" />
   </component>
@@ -2755,6 +2755,9 @@
       <workItem from="1599301550688" duration="3768000" />
       <workItem from="1601457835095" duration="187000" />
       <workItem from="1601647399771" duration="7431000" />
+      <workItem from="1601721160416" duration="1236000" />
+      <workItem from="1601731375248" duration="1172000" />
+      <workItem from="1601797794771" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
