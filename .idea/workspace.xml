@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AppendAndDelete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppendAndDelete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,9 +186,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.base26root">
+  <component name="RunManager" selected="Python.AppendAndDelete">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,6 +291,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AnyorAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppendAndDelete" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppendAndDelete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2558,6 +2581,7 @@
       <item itemvalue="Python.wordcompressionalternate" />
       <item itemvalue="Python.zipfunction" />
       <item itemvalue="Python.base26root" />
+      <item itemvalue="Python.AppendAndDelete" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -2757,7 +2781,12 @@
       <workItem from="1601647399771" duration="7431000" />
       <workItem from="1601721160416" duration="1236000" />
       <workItem from="1601731375248" duration="1172000" />
-      <workItem from="1601797794771" duration="772000" />
+      <workItem from="1601797794771" duration="4016000" />
+      <workItem from="1601828388008" duration="107000" />
+      <workItem from="1601987977253" duration="94000" />
+      <workItem from="1602057760001" duration="268000" />
+      <workItem from="1602158817211" duration="1795000" />
+      <workItem from="1602322444094" duration="755000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2818,32 +2847,32 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
-    <state width="1324" height="217" key="GridCell.Tab.0.bottom" timestamp="1601669100579">
+    <state width="629" height="174" key="GridCell.Tab.0.bottom" timestamp="1601810582416">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1324" height="217" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601669100579" />
+    <state width="629" height="174" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601810582416" />
     <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599821004427" />
     <state width="1271" height="243" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
-    <state width="1324" height="217" key="GridCell.Tab.0.center" timestamp="1601669100578">
+    <state width="629" height="174" key="GridCell.Tab.0.center" timestamp="1601810582416">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1324" height="217" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601669100578" />
+    <state width="629" height="174" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601810582416" />
     <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733156" />
-    <state width="1324" height="217" key="GridCell.Tab.0.left" timestamp="1601669100578">
+    <state width="629" height="174" key="GridCell.Tab.0.left" timestamp="1601810582415">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1324" height="217" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601669100578" />
+    <state width="629" height="174" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601810582415" />
     <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733154" />
-    <state width="1324" height="217" key="GridCell.Tab.0.right" timestamp="1601669100579">
+    <state width="629" height="174" key="GridCell.Tab.0.right" timestamp="1601810582416">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1324" height="217" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601669100579" />
+    <state width="629" height="174" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601810582416" />
     <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733157" />
     <state width="1324" height="217" key="GridCell.Tab.1.bottom" timestamp="1601669100593">
@@ -2874,11 +2903,11 @@
     <state width="1324" height="217" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601669100592" />
     <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1599723752069" />
     <state width="1271" height="243" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733162" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1601663828007">
+    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1602159095123">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599111748197" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1601663828007" />
+    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1602159095123" />
     <state x="184" y="31" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600939056808" />
     <state x="242" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1599820548059" />
     <state x="246" y="31" width="1022" height="737" key="SettingsEditor/72.29.1294.739@72.29.1294.739" timestamp="1600600449441" />
@@ -3067,5 +3096,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonHackerrank$base26root.coverage" NAME="base26root Coverage Results" MODIFIED="1601668014945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$AppendAndDelete.coverage" NAME="AppendAndDelete Coverage Results" MODIFIED="1601807611082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

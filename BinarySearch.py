@@ -1,21 +1,21 @@
-def search(arr, l, h, key):
+def search(array, l, h, key):
     if l > h:
         return -1
     mid = (l + h) // 2
-    if arr[mid] == key:
+    if array[mid] == key:
         return mid
-    if arr[l] <= arr[mid]:
-        if arr[l] <= key <= arr[mid]:
-            return search(arr, l, mid - 1, key)
-        return search(arr, mid + 1, h, key)
-    if arr[mid] <= key <= arr[h]:
-        return search(arr, mid + 1, h, key)
-    return search(arr, l, mid - 1, key)
+    if array[l] <= array[mid]:
+        if array[l] <= key <= array[mid]:
+            return search(array, l, mid - 1, key)
+        return search(array, mid + 1, h, key)
+    if array[mid] <= key <= array[h]:
+        return search(array, mid + 1, h, key)
+    return search(array, l, mid - 1, key)
 
 
-arr = list(map(int, input().split(" ")))
+array = list(map(int, input().split(" ")))
 key = 6
-i = search(arr, 0, len(arr) - 1, key)
+i = search(array, 0, len(array) - 1, key)
 if i != -1:
     print("Index: % d" % i)
 else:
