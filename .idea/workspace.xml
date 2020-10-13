@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LongestConsecutiveSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SherlockAndValidString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,9 +188,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.LongestConsecutiveSequence">
+  <component name="RunManager" selected="Python.SherlockAndValidString">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1420,6 +1423,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SherlockAndValidString" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonHackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SherlockAndValidString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Simple_Binary" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonHackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2627,6 +2652,7 @@
       <item itemvalue="Python.AppendAndDelete" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.LongestConsecutiveSequence" />
+      <item itemvalue="Python.SherlockAndValidString" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -2836,6 +2862,7 @@
       <workItem from="1602488130132" duration="2661000" />
       <workItem from="1602520658710" duration="3708000" />
       <workItem from="1602565994915" duration="4938000" />
+      <workItem from="1602598037320" duration="4893000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2896,67 +2923,67 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1602572976957">
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1602604108923">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602572976957" />
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602604108923" />
     <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599821004427" />
     <state width="1271" height="243" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center" timestamp="1602572976957">
+    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1602604108922">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602572976957" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602604108922" />
     <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733156" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left" timestamp="1602572976957">
+    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1602604108917">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602572976957" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602604108917" />
     <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733154" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right" timestamp="1602572976957">
+    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1602604108922">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602572976957" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602604108922" />
     <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733157" />
-    <state width="1324" height="217" key="GridCell.Tab.1.bottom" timestamp="1601669100593">
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1602604108924">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1324" height="217" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601669100593" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602604108924" />
     <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599723752070" />
     <state width="1271" height="243" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733163" />
-    <state width="1324" height="217" key="GridCell.Tab.1.center" timestamp="1601669100580">
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1602604108923">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1324" height="217" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601669100580" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1602604108923" />
     <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1599723752068" />
     <state width="1271" height="243" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733160" />
-    <state width="1324" height="217" key="GridCell.Tab.1.left" timestamp="1601669100580">
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1602604108923">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1324" height="217" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601669100580" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1602604108923" />
     <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1599723752066" />
     <state width="1271" height="243" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
-    <state width="1324" height="217" key="GridCell.Tab.1.right" timestamp="1601669100592">
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1602604108923">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1324" height="217" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601669100592" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602604108923" />
     <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1599723752069" />
     <state width="1271" height="243" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733162" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1602487167123">
+    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1602604098252">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599111748197" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1602487167123" />
+    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1602604098252" />
     <state x="184" y="31" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600939056808" />
     <state x="242" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1599820548059" />
     <state x="246" y="31" width="1022" height="737" key="SettingsEditor/72.29.1294.739@72.29.1294.739" timestamp="1600600449441" />
@@ -2964,10 +2991,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="208" key="cloudConfig.PluginsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599111797744" />
-    <state x="438" y="208" key="cloudConfig.SelfSettingsDialog" timestamp="1599108110992">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="438" y="239" width="269" height="314" key="cloudConfig.SelfSettingsDialog" timestamp="1602600686245">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="438" y="208" key="cloudConfig.SelfSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599108110992" />
+    <state x="438" y="239" width="269" height="314" key="cloudConfig.SelfSettingsDialog/0.27.1366.741@0.27.1366.741" timestamp="1602600686245" />
     <state x="339" y="63" width="744" height="667" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599720118616">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -3133,6 +3161,11 @@
           <line>40</line>
           <option name="timeStamp" value="147" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SherlockAndValidString.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -3147,6 +3180,7 @@
     <SUITE FILE_PATH="coverage/PythonHackerrank$base26root.coverage" NAME="base26root Coverage Results" MODIFIED="1601668014945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$LongestConsecutiveSequence.coverage" NAME="LongestConsecutiveSequence Coverage Results" MODIFIED="1602570284018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1602494407328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$SherlockAndValidString.coverage" NAME="SherlockAndValidString Coverage Results" MODIFIED="1602604032235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$AppendAndDelete.coverage" NAME="AppendAndDelete Coverage Results" MODIFIED="1601807611082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
