@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoCharacters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2962,6 +2963,7 @@
       <workItem from="1602834882196" duration="109000" />
       <workItem from="1602950666755" duration="1859000" />
       <workItem from="1603024510951" duration="1037000" />
+      <workItem from="1603033115886" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -3022,32 +3024,32 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1603025809325">
+    <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1603033773754">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603025809325" />
+    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
     <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599821004427" />
     <state width="1271" height="243" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center" timestamp="1603025809324">
+    <state width="1320" height="177" key="GridCell.Tab.0.center" timestamp="1603033773754">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603025809324" />
+    <state width="1320" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
     <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733156" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left" timestamp="1603025809324">
+    <state width="1320" height="177" key="GridCell.Tab.0.left" timestamp="1603033773754">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603025809324" />
+    <state width="1320" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
     <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733154" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right" timestamp="1603025809325">
+    <state width="1320" height="177" key="GridCell.Tab.0.right" timestamp="1603033773754">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603025809325" />
+    <state width="1320" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
     <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
     <state width="1271" height="243" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733157" />
     <state width="1320" height="244" key="GridCell.Tab.1.bottom" timestamp="1602613878895">
@@ -3276,7 +3278,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonHackerrank$base26root.coverage" NAME="base26root Coverage Results" MODIFIED="1601668014945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$TwoCharacters.coverage" NAME="TwoCharacters Coverage Results" MODIFIED="1603024763922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$TwoCharacters.coverage" NAME="TwoCharacters Coverage Results" MODIFIED="1603033270350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$LongestConsecutiveSequence.coverage" NAME="LongestConsecutiveSequence Coverage Results" MODIFIED="1602570284018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1602494407328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonHackerrank$SherlockAndValidString.coverage" NAME="SherlockAndValidString Coverage Results" MODIFIED="1602611234405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
