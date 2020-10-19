@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoCharacters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +176,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GoogleApplicationScripts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -2964,6 +2963,7 @@
       <workItem from="1602950666755" duration="1859000" />
       <workItem from="1603024510951" duration="1037000" />
       <workItem from="1603033115886" duration="657000" />
+      <workItem from="1603103406077" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -3020,10 +3020,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#Simple_Binary/0.0.1366.728@0.0.1366.728" timestamp="1598949063085" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599216996281">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="463" y="147" key="FileChooserDialogImpl" timestamp="1603103670058">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
+    <state x="463" y="147" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1603103670058" />
     <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1603033773754">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
