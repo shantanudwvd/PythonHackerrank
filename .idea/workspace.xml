@@ -176,7 +176,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GoogleApplicationScripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -2964,6 +2964,10 @@
       <workItem from="1603024510951" duration="1037000" />
       <workItem from="1603033115886" duration="657000" />
       <workItem from="1603103406077" duration="249000" />
+      <workItem from="1603956092332" duration="418000" />
+      <workItem from="1603956641029" duration="736000" />
+      <workItem from="1604397433762" duration="169000" />
+      <workItem from="1604397696149" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -3081,11 +3085,11 @@
     <state width="1320" height="244" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602613878894" />
     <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1599723752069" />
     <state width="1271" height="243" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733162" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1602834991749">
+    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1603956563507">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599111748197" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1602834991749" />
+    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1603956563507" />
     <state x="184" y="31" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600939056808" />
     <state x="242" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1599820548059" />
     <state x="246" y="31" width="1022" height="737" key="SettingsEditor/72.29.1294.739@72.29.1294.739" timestamp="1600600449441" />
