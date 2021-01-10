@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/trappingRainWater.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +188,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.TwoCharacters">
     <configuration name="3Dsurfacearea" type="PythonConfigurationType" factoryName="Python">
@@ -2638,6 +2639,7 @@
       <item itemvalue="Python.Amazon_Test" />
       <item itemvalue="Python.AngryProfessor" />
       <item itemvalue="Python.AnyorAll" />
+      <item itemvalue="Python.AppendAndDelete" />
       <item itemvalue="Python.Arrays" />
       <item itemvalue="Python.AsorBs" />
       <item itemvalue="Python.AthleteSort" />
@@ -2654,10 +2656,12 @@
       <item itemvalue="Python.Deque-STL" />
       <item itemvalue="Python.DivisorsofN" />
       <item itemvalue="Python.Equal_Stacks" />
+      <item itemvalue="Python.EqualizeTheArray" />
       <item itemvalue="Python.Equalize_the_array" />
       <item itemvalue="Python.Equilibrium_Point" />
       <item itemvalue="Python.EvalPostfix" />
       <item itemvalue="Python.ExtraLongFactorials" />
+      <item itemvalue="Python.FibonacciModified" />
       <item itemvalue="Python.FibonacciNumbers" />
       <item itemvalue="Python.FidelityTest" />
       <item itemvalue="Python.FindAngleMBC" />
@@ -2670,10 +2674,12 @@
       <item itemvalue="Python.Kcount" />
       <item itemvalue="Python.Largest_Rectangle" />
       <item itemvalue="Python.ListComprehensions" />
+      <item itemvalue="Python.LongestConsecutiveSequence" />
       <item itemvalue="Python.Luck_Balance" />
       <item itemvalue="Python.MapFunction" />
       <item itemvalue="Python.MapandLambdaFunctions" />
       <item itemvalue="Python.MathFunctions" />
+      <item itemvalue="Python.MaxMin" />
       <item itemvalue="Python.MaximiseIt!" />
       <item itemvalue="Python.MergetheTools!" />
       <item itemvalue="Python.Min_Cut_Tree" />
@@ -2682,11 +2688,13 @@
       <item itemvalue="Python.ModPower" />
       <item itemvalue="Python.NoIdea!Alternate" />
       <item itemvalue="Python.PatterInPython" />
+      <item itemvalue="Python.PickingNUmbers" />
       <item itemvalue="Python.Poisnous_Plants_Optimised" />
       <item itemvalue="Python.Power_Set" />
       <item itemvalue="Python.PythonEvaluation" />
       <item itemvalue="Python.PythonTest" />
       <item itemvalue="Python.ReduceFunction" />
+      <item itemvalue="Python.SherlockAndValidString" />
       <item itemvalue="Python.Simple_Binary" />
       <item itemvalue="Python.StrongPassword" />
       <item itemvalue="Python.TextWrap" />
@@ -2703,6 +2711,7 @@
       <item itemvalue="Python.Zipped!" />
       <item itemvalue="Python.alphabetrangoli" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.base26root" />
       <item itemvalue="Python.best-time-to-buy-and-sell-stocks-ii" />
       <item itemvalue="Python.checkstrictsuperset" />
       <item itemvalue="Python.commonelements" />
@@ -2730,20 +2739,12 @@
       <item itemvalue="Python.simple_prime" />
       <item itemvalue="Python.stringformatting" />
       <item itemvalue="Python.stringsplitandjoin" />
+      <item itemvalue="Python.test1" />
       <item itemvalue="Python.testfile" />
       <item itemvalue="Python.thecaptainsroom" />
       <item itemvalue="Python.tkinter" />
       <item itemvalue="Python.wordcompressionalternate" />
       <item itemvalue="Python.zipfunction" />
-      <item itemvalue="Python.base26root" />
-      <item itemvalue="Python.AppendAndDelete" />
-      <item itemvalue="Python.test1" />
-      <item itemvalue="Python.LongestConsecutiveSequence" />
-      <item itemvalue="Python.SherlockAndValidString" />
-      <item itemvalue="Python.EqualizeTheArray" />
-      <item itemvalue="Python.FibonacciModified" />
-      <item itemvalue="Python.MaxMin" />
-      <item itemvalue="Python.PickingNUmbers" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -3006,130 +3007,6 @@
     <MESSAGE value="Initial Commit: Added all the files for algorithm questions from various coding platforms." />
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Added all the files for algorithm questions from various coding platforms." />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="402" y="0" key="#AsorBs" timestamp="1598850492757">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#AsorBs/0.0.1366.728@0.0.1366.728" timestamp="1598850492757" />
-    <state x="402" y="0" key="#Cake_Distribution" timestamp="1598852031495">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#Cake_Distribution/0.0.1366.728@0.0.1366.728" timestamp="1598852031495" />
-    <state x="402" y="0" key="#Choose_Points" timestamp="1599108179277">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#Choose_Points/0.0.1366.728@0.0.1366.728" timestamp="1599108179277" />
-    <state x="402" y="0" key="#Luck_Balance" timestamp="1599149994505">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#Luck_Balance/0.0.1366.728@0.0.1366.728" timestamp="1599149994505" />
-    <state x="402" y="0" key="#Min_Cut_Tree" timestamp="1599284830848">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#Min_Cut_Tree/0.0.1366.728@0.0.1366.728" timestamp="1599284830848" />
-    <state x="278" y="41" width="800" height="719" key="#Plugins" timestamp="1605026761372">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="278" y="41" width="800" height="719" key="#Plugins/0.27.1366.741@0.27.1366.741" timestamp="1605026761372" />
-    <state x="402" y="0" key="#Simple_Binary" timestamp="1598949063085">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="402" y="0" key="#Simple_Binary/0.0.1366.728@0.0.1366.728" timestamp="1598949063085" />
-    <state x="463" y="147" key="FileChooserDialogImpl" timestamp="1603103670058">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599216996281" />
-    <state x="463" y="147" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1603103670058" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1603033773754">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599821004427" />
-    <state width="1271" height="243" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center" timestamp="1603033773754">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
-    <state width="1271" height="243" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733156" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left" timestamp="1603033773754">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
-    <state width="1271" height="243" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733154" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right" timestamp="1603033773754">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599305049636" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603033773754" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1599821004426" />
-    <state width="1271" height="243" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733157" />
-    <state width="1320" height="244" key="GridCell.Tab.1.bottom" timestamp="1602613878895">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1320" height="244" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602613878895" />
-    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1599723752070" />
-    <state width="1271" height="243" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600920733163" />
-    <state width="1320" height="244" key="GridCell.Tab.1.center" timestamp="1602613878894">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1320" height="244" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1602613878894" />
-    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1599723752068" />
-    <state width="1271" height="243" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600920733160" />
-    <state width="1320" height="244" key="GridCell.Tab.1.left" timestamp="1602613878894">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1320" height="244" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1602613878894" />
-    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1599723752066" />
-    <state width="1271" height="243" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600920733158" />
-    <state width="1320" height="244" key="GridCell.Tab.1.right" timestamp="1602613878894">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599304075527" />
-    <state width="1320" height="244" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602613878894" />
-    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1599723752069" />
-    <state width="1271" height="243" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600920733162" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor" timestamp="1603956563507">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599111748197" />
-    <state x="117" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1603956563507" />
-    <state x="184" y="31" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600939056808" />
-    <state x="242" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1599820548059" />
-    <state x="246" y="31" width="1022" height="737" key="SettingsEditor/72.29.1294.739@72.29.1294.739" timestamp="1600600449441" />
-    <state x="438" y="208" key="cloudConfig.PluginsDialog" timestamp="1599111797744">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="438" y="208" key="cloudConfig.PluginsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599111797744" />
-    <state x="438" y="239" width="269" height="314" key="cloudConfig.SelfSettingsDialog" timestamp="1602600686245">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="438" y="208" key="cloudConfig.SelfSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599108110992" />
-    <state x="438" y="239" width="269" height="314" key="cloudConfig.SelfSettingsDialog/0.27.1366.741@0.27.1366.741" timestamp="1602600686245" />
-    <state x="411" y="105" width="533" height="591" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1602608709538">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="411" y="105" width="533" height="591" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.27.1366.741@0.27.1366.741" timestamp="1602608709538" />
-    <state x="339" y="63" width="744" height="667" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599720118616">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="339" y="63" width="744" height="667" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1599720118616" />
-    <state x="500" y="313" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600601341422">
-      <screen x="72" y="29" width="1294" height="739" />
-    </state>
-    <state x="500" y="313" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.29.1294.739@72.29.1294.739" timestamp="1600601341422" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599109174959">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599109174959" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -3291,16 +3168,5 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonHackerrank$base26root.coverage" NAME="base26root Coverage Results" MODIFIED="1601668014945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$TwoCharacters.coverage" NAME="TwoCharacters Coverage Results" MODIFIED="1603033270350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$LongestConsecutiveSequence.coverage" NAME="LongestConsecutiveSequence Coverage Results" MODIFIED="1602570284018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1602494407328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$SherlockAndValidString.coverage" NAME="SherlockAndValidString Coverage Results" MODIFIED="1602611234405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$MaxMin.coverage" NAME="MaxMin Coverage Results" MODIFIED="1602678536961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$EqualizeTheArray.coverage" NAME="EqualizeTheArray Coverage Results" MODIFIED="1602656813513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$PickingNUmbers.coverage" NAME="PickingNUmbers Coverage Results" MODIFIED="1602767564754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonHackerrank$AppendAndDelete.coverage" NAME="AppendAndDelete Coverage Results" MODIFIED="1601807611082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
