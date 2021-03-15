@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5102c441-3241-41dd-abae-76c5274826d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trappingRainWater.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -2747,7 +2746,7 @@
       <item itemvalue="Python.zipfunction" />
     </list>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -2976,6 +2975,13 @@
       <workItem from="1605169106440" duration="194000" />
       <workItem from="1605169411849" duration="731000" />
       <workItem from="1605184692718" duration="1229000" />
+      <workItem from="1609004946276" duration="119000" />
+      <workItem from="1609005099623" duration="115000" />
+      <workItem from="1615816250761" duration="201000" />
+      <workItem from="1615816847982" duration="91000" />
+      <workItem from="1615821704315" duration="94000" />
+      <workItem from="1615821941911" duration="166000" />
+      <workItem from="1615825309289" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Added all the files for algorithm questions from various coding platforms.">
       <created>1555702016561</created>
@@ -2988,7 +2994,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -3075,11 +3081,6 @@
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AthleteSort.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/MapandLambdaFunctions.py</url>
           <line>20</line>
           <option name="timeStamp" value="89" />
@@ -3159,6 +3160,11 @@
           <line>40</line>
           <option name="timeStamp" value="147" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AthleteSort.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -3168,5 +3174,16 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonHackerrank$AppendAndDelete.coverage" NAME="AppendAndDelete Coverage Results" MODIFIED="1601807611082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$PickingNUmbers.coverage" NAME="PickingNUmbers Coverage Results" MODIFIED="1602767564754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1602494407328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$EqualizeTheArray.coverage" NAME="EqualizeTheArray Coverage Results" MODIFIED="1602656813513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$LongestConsecutiveSequence.coverage" NAME="LongestConsecutiveSequence Coverage Results" MODIFIED="1602570284018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$MaxMin.coverage" NAME="MaxMin Coverage Results" MODIFIED="1602678536961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$TwoCharacters.coverage" NAME="TwoCharacters Coverage Results" MODIFIED="1603033270350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$base26root.coverage" NAME="base26root Coverage Results" MODIFIED="1601668014945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerrank$SherlockAndValidString.coverage" NAME="SherlockAndValidString Coverage Results" MODIFIED="1602611234405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
